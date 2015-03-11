@@ -1,3 +1,4 @@
+# Commit this file to branch 'practice'
 vecSubset <- function(vec, n, gt = TRUE, eq = NULL) {
   
   # Create a local vector
